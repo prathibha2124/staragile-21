@@ -2,4 +2,6 @@
 
 pwd
 date
+hostname
+whoami
 
